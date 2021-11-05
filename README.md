@@ -10,9 +10,9 @@ In a new terminal window:
 
 `npm run electron`
 
-### File converter
+# File converter
 A Desktop application that helps you convert video files to different formats
-# Supported formats are:
+### Supported formats are:
 1) Mp4
 2) avi
 3) mpeg
